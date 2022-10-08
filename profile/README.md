@@ -1,5 +1,9 @@
 ## Emry UI
 
+The best React/TypeScript templates and Design System for startups.
+
+Kickstart new projects quickly, save thousands of hours on design, and level up your UI.
+
 <!--
 
 **Here are some ideas to get you started:**
