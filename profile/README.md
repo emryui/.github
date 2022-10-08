@@ -1,8 +1,7 @@
-## Emry UI
+## Emry UI - Supercharge your frontend development
 
-The best React/TypeScript templates and Design System for startups.
+Emry UI is a set of beautifully crafted React/TypeScript components that makes it easy for developers to build beautiful UI. Save thousands of hours on design, level up your UI and help your teams build great looking web/applications faster.
 
-Kickstart new projects quickly, save thousands of hours on design, and level up your UI.
 
 <!--
 
